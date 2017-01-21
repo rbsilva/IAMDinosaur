@@ -20,7 +20,7 @@ var Learn = {
   generation: 0,
 
   // Set this, to verify genome experience BEFORE running it
-  shouldCheckExperience: false,
+  shouldCheckExperience: true,
 
 };
 
